@@ -11,3 +11,6 @@ To run in two consoles:
 
 Links:
 https://github.com/ReactTraining/react-router
+
+https://redux.js.org/
+
