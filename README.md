@@ -13,4 +13,8 @@ Links:
 https://github.com/ReactTraining/react-router
 
 https://redux.js.org/
+https://momentjs.org/
+https://momentjs.org/
+https://airbnb.io/projects/react-dates/
 
+For regular expressions: https://regex101.com/
