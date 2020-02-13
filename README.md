@@ -16,5 +16,8 @@ https://redux.js.org/
 https://momentjs.org/
 https://momentjs.org/
 https://airbnb.io/projects/react-dates/
+https://jestjs.io/
 
 For regular expressions: https://regex101.com/
+
+To run tests: yarn test -- --watch
