@@ -1,22 +1,19 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render ExpenseListItem with expense 1`] = `
+exports[`should render ExpenseListItem correctly 1`] = `
 <div>
-  <NavLink
-    activeClassName="is-active"
-    exact={true}
-    to="edit/1"
+  <Link
+    replace={false}
+    to="/edit/1"
   >
     <h3>
       Gum
     </h3>
-  </NavLink>
+  </Link>
   <p>
     195
      - 
     0
-     - 
-    1
   </p>
 </div>
 `;
