@@ -1,23 +1,7 @@
-# indecission-app
-Random Decission Maker
-Remover Dependencias: 
->> yarn remove babel-cli live-server 
->> npm uninstall -g babel-cli live-server
-Prerequisites: Node JS
-To Install:
->> yarn install
-To run in two consoles:
->> yarn run dev-server
+# Git Commands
 
-Links:
-https://github.com/ReactTraining/react-router
-
-https://redux.js.org/
-https://momentjs.org/
-https://momentjs.org/
-https://airbnb.io/projects/react-dates/
-https://jestjs.io/
-
-For regular expressions: https://regex101.com/
-
-To run tests: yarn test -- --watch
+git init - Create a new git repo
+git status - View the changes to your project code
+git add - Add files to staging area
+git commit - Creates a new commit with files from staging area
+git log - View recent commits

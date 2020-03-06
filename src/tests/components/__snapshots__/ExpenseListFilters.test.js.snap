@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render expense list filters correctly 1`] = `
+exports[`should render ExpenseListFilters correctly 1`] = `
 <div>
   <input
     onChange={[Function]}
@@ -104,7 +104,7 @@ exports[`should render expense list filters correctly 1`] = `
 </div>
 `;
 
-exports[`should render expense list filters with alter filter correctly 1`] = `
+exports[`should render ExpenseListFilters with alt data correctly 1`] = `
 <div>
   <input
     onChange={[Function]}
